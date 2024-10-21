@@ -91,8 +91,9 @@
 
 ## 🔮 Future Enhancements
 
--**Data Visualization**: Graphs to visualize spending patterns.
--**Monthly Reports**: Auto-generated reports summarizing expenses and income.
+- **Data Visualization**: Graphs to visualize spending patterns.
+
+- **Monthly Reports**: Auto-generated reports summarizing expenses and income.
 
 ---
 
