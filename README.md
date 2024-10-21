@@ -91,12 +91,12 @@
 
 ## 🔮 Future Enhancements
 
-- ![Chart](https://img.icons8.com/color/48/000000/graph.png) **Data Visualization**: Graphs to visualize spending patterns.
+-**Data Visualization**: Graphs to visualize spending patterns.
 -**Monthly Reports**: Auto-generated reports summarizing expenses and income.
 
 ---
 
 ## 📝 License
 
-![License](https://img.icons8.com/color/48/000000/certificate.png) This project is licensed under the MIT License.
+This project is licensed under the MIT License.
 
