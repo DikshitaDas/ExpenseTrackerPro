@@ -7,7 +7,7 @@
 ![Nodemailer](https://img.shields.io/badge/Nodemailer-yellow?style=for-the-badge&logo=mail&logoColor=white)
 ![Bcrypt](https://img.shields.io/badge/Bcrypt-blue?style=for-the-badge)
 
----
+--- 
 
 ## 📖 Introduction
 
